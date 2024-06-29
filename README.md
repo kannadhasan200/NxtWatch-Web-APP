@@ -1,6 +1,7 @@
-In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
+NxtWatch App
 
-### Refer to videos below:
+Username: rahul 
+password : rahul@2021
 
 **Success View** <br/>
 
