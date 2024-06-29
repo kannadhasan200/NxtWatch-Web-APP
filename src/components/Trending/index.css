@@ -1,0 +1,28 @@
+.trending {
+  background-color: #ebebeb;
+  height: 150px;
+  width: 1223px;
+  padding-left: 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.trending-logo {
+  height: 70px;
+  width: 70px;
+  background-color: #cbd5e1;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  color: #ff0000;
+}
+.ul {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}

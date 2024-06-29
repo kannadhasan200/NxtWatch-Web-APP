@@ -1,0 +1,37 @@
+.video-list-container {
+  height: 400px;
+  width: 350px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.video-thumbnail {
+  height: 210px;
+  width: 350px;
+}
+.channel-profile-logo {
+  height: 45px;
+  width: 45px;
+}
+.video-title {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+.channel-title-container {
+  display: flex;
+}
+.channel {
+  margin-top: 5px;
+  font-family: 'Roboto';
+  color: #7e858e;
+  margin-bottom: 0px;
+}
+.view-count {
+  margin-top: 5px;
+  color: #7e858e;
+}
+.video-link {
+  text-decoration: none;
+  color: black;
+}

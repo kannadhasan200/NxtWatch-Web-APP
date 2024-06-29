@@ -1,0 +1,27 @@
+.side-bar-button {
+  width: 290px;
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 18px;
+  text-align: start;
+  height: 40px;
+  background-color: #ffffff;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+}
+.logo-side-bar {
+  margin-right: 18px;
+}
+.contact-container {
+  padding: 20px;
+}
+.active-side-bar {
+  background-color: #ebebeb;
+}
+.link {
+  text-decoration: none;
+}

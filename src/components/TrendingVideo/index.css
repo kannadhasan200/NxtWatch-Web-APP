@@ -1,0 +1,15 @@
+.trending-link {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto';
+}
+.trending-thumbnail {
+  height: 250px;
+  width: 450px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}

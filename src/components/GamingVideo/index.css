@@ -1,0 +1,11 @@
+.gaming-link {
+  text-decoration: none;
+  color: black;
+}
+
+.gaming-thumbnail {
+  height: 400px;
+  width: 300px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}

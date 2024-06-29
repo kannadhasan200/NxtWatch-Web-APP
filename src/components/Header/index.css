@@ -1,0 +1,38 @@
+.header-container {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  padding-right: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  height: 35px;
+  width: 140px;
+}
+.header-cart-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.light-dart-mode {
+  margin-right: 20px;
+}
+.profile {
+  height: 35px;
+  width: 35px;
+  margin-right: 20px;
+}
+.popup-content {
+  height: 200px;
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
